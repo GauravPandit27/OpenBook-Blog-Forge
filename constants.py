@@ -1,0 +1,1 @@
+groq_key='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'
